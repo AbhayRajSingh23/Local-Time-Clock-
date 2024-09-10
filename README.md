@@ -34,4 +34,4 @@ setInterval(function () {
   clock.innerHTML = date.toLocaleTimeString();
 }, 1000);
 ```
-#[Live Demo](https://abhayrajsingh23.github.io/Local-Time-Clock-/)
+# [Live Demo](https://abhayrajsingh23.github.io/Local-Time-Clock-/)
